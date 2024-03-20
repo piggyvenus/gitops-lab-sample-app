@@ -3,7 +3,7 @@
 const log = require('barelog')
 const { Observable } = require('rxjs');
 const { readFileSync } = require('node:fs');
-const placeholderImage = ['https://i.imgflip.com/7jval6.jpg']
+const placeholderImage = ['https://i.imgflip.com/7jmwqn.jpg']
 
 /**
  * Reads the images.json file, and verifies it contains a flat array of URLs
